@@ -1,0 +1,7 @@
+<resources>
+	
+	<dimen name="ad_text_size">18sp</dimen>
+	
+	<dimen name="close_button_size">40dp</dimen>
+	
+</resources>
