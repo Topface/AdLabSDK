@@ -1,0 +1,10 @@
+
+/bin
+/gen
+/out
+/.idea
+/.settings
+*.iml
+.project
+.classpath
+localist.db
