@@ -8,3 +8,4 @@
 .project
 .classpath
 localist.db
+/build
